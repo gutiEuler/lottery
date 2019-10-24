@@ -1,0 +1,1 @@
+{"@type":"com.gutieuler.lottery.model.GeneratorLongExpression","lambdaDomainExpression":"x -> x + 1","lambdaCoDomainExpression":"x-> x + 1","minLength":4,"padding":"0","timeout":10000,"repeatAllowed":true,"coDomain":null,"seed":10,"domain":null}

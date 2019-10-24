@@ -1,0 +1,1 @@
+{"@type":"com.gutieuler.lottery.model.Generator","minLength":4,"padding":"-","timeout":10000,"repeatAllowed":false,"coDomain":{"@type":"com.gutieuler.lottery.model.functions.Alphabet"},"seed":0,"domain":{"@type":"com.gutieuler.lottery.model.functions.Identity"}}
